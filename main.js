@@ -39,35 +39,3 @@ $(document).ready(function () {
   });
 
 });
-
-
-
-// $('.quadrato').bind('click', function() {
-//      random = Math.ceil(Math.random() * 8.8);
-//      if (random <= 5)
-//      {
-//        $(".quadrato").append(random);
-//        $(".quadrato").css("background-color", "yellow");
-//          console.log("Hai perso");
-//      }
-//      else if (random > 5){
-//        $(".quadrato").css("background-color", "green");
-//          console.log("Hai vinto");
-//      }
-//      console.log(random);
-// });
-//
-// $('.quadrato').bind('click', function() {
-//   random = Math.ceil(Math.random() * 9);
-//     if (random <= 5)
-//          {
-//            $(".quadrato").append(random);
-//            $(".quadrato").css("background-color", "yellow");
-//              console.log("Hai perso");
-//          }
-//          else if (random > 5){
-//            $(".quadrato").css("background-color", "green");
-//              console.log("Hai vinto");
-//          }
-// console.log(random);
-// });
